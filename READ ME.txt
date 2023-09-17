@@ -1,0 +1,2 @@
+make sure to download .net framework 6.0 for windows before running otherwise it won't work
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
